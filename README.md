@@ -1,4 +1,4 @@
-### 👋 Hi!
+### 👋 Hi, Thank you for visiting my GitHub repository. Your support and feedback mean the world to me. Let's create something amazing together! 😊!
 I'm _[Rxsty](https://rxsty.xyz)_ and I am a skilled backend developer!
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxstyq&layout=compact&theme=tokyonight&hide_border=true)
