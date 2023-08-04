@@ -4,17 +4,14 @@ I'm _[Rxsty](https://rxsty.xyz)_ and I am a skilled backend developer!
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxstyq&layout=compact&theme=tokyonight&hide_border=true)
 
 ________________
-### Contact Information
-You can contact me via
-- [me@rxsty.xyz](mailto:me@rxsty.xyz)
-- [Twitter](https://twitter.com/imrxsty)
-
-________________
 **Working on:** 
 
 - **[RxstyBot](https://github.com/RxstyBot/bot)** create a discussion in **[#Discussions](https://github.com/RxstyBot/BotDiscussions/discussions/1)**
 
 *and other projects!*
+
+### Contact
+- [me@rxsty.xyz](mailto:me@rxsty.xyz)
 
 ________________
 ### Trophies
