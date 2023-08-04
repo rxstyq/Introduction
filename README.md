@@ -1,6 +1,5 @@
 ### 👋 Hi!
 I'm _[Rxsty](https://rxsty.xyz)_ and I am a skilled backend developer!
-________________
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rxstyq&layout=compact&theme=tokyonight&hide_border=true)
 
